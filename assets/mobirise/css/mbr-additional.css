@@ -1454,7 +1454,7 @@ section.lazy-placeholder:after {
 }
 .cid-rYKKUUrmJp .mbr-text {
   color: #000000;
-  text-align: left;
+  text-align: center;
 }
 .cid-rYKKUUrmJp h4 {
   text-align: center;
@@ -1520,6 +1520,16 @@ section.lazy-placeholder:after {
 }
 .cid-rYKIe3Sijl P {
   color: #232323;
+  text-align: center;
+}
+.cid-rYKIe3Sijl .card-title,
+.cid-rYKIe3Sijl .card-img {
+  text-align: center;
+}
+.cid-rYQIYtGAxk {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/mbr-1-1920x1280.jpg");
 }
 .cid-rYQkzhCH1W {
   padding-top: 90px;
