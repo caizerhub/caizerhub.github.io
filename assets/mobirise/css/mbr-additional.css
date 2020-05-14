@@ -2227,8 +2227,22 @@ section.lazy-placeholder:after {
 .cid-rYKqrwtEt3 .dropdown-item:hover {
   color: #d4a815 !important;
 }
-.cid-rYQ8h4nfEo {
+.cid-rYWbNLZfHp {
   padding-top: 120px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rYWbNLZfHp .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rYWbNLZfHp .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-rYWbNLZfHp H2 {
+  text-align: left;
+}
+.cid-rYQ8h4nfEo {
+  padding-top: 45px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
@@ -2239,7 +2253,7 @@ section.lazy-placeholder:after {
 }
 .cid-rYQ8h4nfEo .mbr-author-name {
   font-weight: bold;
-  color: #232323;
+  color: #000000;
 }
 .cid-rYQ8h4nfEo .media-container-row {
   word-wrap: break-word;
