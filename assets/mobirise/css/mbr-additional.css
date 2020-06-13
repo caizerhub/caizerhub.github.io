@@ -622,6 +622,9 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
+.cid-s1u8SfzPSJ {
+  background-image: url("../../../assets/images/collide-1-1920x1285.jpg");
+}
 .cid-s1u8SfzPSJ .icons-media-container {
   display: flex;
   -webkit-justify-content: center;
@@ -647,5 +650,5 @@ section.lazy-placeholder:after {
 }
 .cid-s1u8SfzPSJ .mbr-text,
 .cid-s1u8SfzPSJ .mbr-section-btn {
-  color: #efc844;
+  color: #ffffff;
 }
