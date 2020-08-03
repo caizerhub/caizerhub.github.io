@@ -164,7 +164,7 @@
             "overlayColor": "#efefef",
             "overlayOpacity": 0.6
           },
-          "title": "<b>Instagram</b>",
+          "title": "<b>Insta</b>gram",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary display-4\" href=\"#\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>",
           "display2": "display-2",
           "display4": "display-4",
@@ -176,7 +176,7 @@
           "_anchor": "instagram-feed-block-t",
           "_styles": {
             ".inst__title": {
-              "color": "#232323",
+              "color": "#6c6c6c",
               "text-align": "left"
             }
           }
